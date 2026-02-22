@@ -1,0 +1,5 @@
+CompoundA -7.5
+CompoundB -9.1
+CompoundC -6.2
+CompoundD -8.4
+CompoundE -5.9

@@ -1,0 +1,6 @@
+drug,target,score
+DrugA,EGFR,8.5
+DrugB,TP53,6.2
+DrugC,BRCA1,9.1
+DrugD,EGFR,7.3
+DrugE,MYC,5.8
